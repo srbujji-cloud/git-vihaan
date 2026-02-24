@@ -1,0 +1,4 @@
+there are 4 file types 
+u - untracked file
+m
+s
